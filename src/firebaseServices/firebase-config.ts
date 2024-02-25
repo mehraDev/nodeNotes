@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAzXT4FHB1kWd_jGkkLL1zdw-II7ryke3Y",
-  authDomain: "cloudyug-f2fe4.firebaseapp.com",
-  projectId: "cloudyug-f2fe4",
-  storageBucket: "cloudyug-f2fe4.appspot.com",
-  messagingSenderId: "840976261947",
-  appId: "1:840976261947:web:04486bbfd0f952ff0a4d1e",
-  measurementId: "G-LZPRTVXLXB"
+  apiKey: "AIzaSyDtllyhD8ZDGNRNoLrgNUlDTWX97V_FduA",
+  authDomain: "gyancetu.firebaseapp.com",
+  projectId: "gyancetu",
+  storageBucket: "gyancetu.appspot.com",
+  messagingSenderId: "841804188632",
+  appId: "1:841804188632:web:6315ad2b6bf1293f5c00ad",
+  measurementId: "G-GBHB9YDSKD",
 };
 
-export default firebaseConfig
+export default firebaseConfig;

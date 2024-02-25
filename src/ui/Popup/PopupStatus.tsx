@@ -27,7 +27,7 @@ const PopupStatus: React.FC<IPopupStatus> = ({ mode, onClose,message }) => {
     <Backdrop>
     <Col br="8px" w="80%" style={{ gap: '2rem', padding: '1.5rem 1rem' , background: theme.neutralColor.bgContainer }} a="center">
       <Icon style={{background: isSuccess ? successColor :  errorColor}}
-        name={isSuccess ? IconName.Check :  IconName.Xmark}
+        name={isSuccess ? IconName.Check :  IconName.Cart}
         color='#fff'  padding="6px" br='50%'  width={5} height={5}/>
         <Text tt="cap" s="18" w={6} c={theme.neutralColor.text}>
                 {isSuccess ? 'Success' : 'Error' }

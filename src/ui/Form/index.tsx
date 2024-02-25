@@ -7,11 +7,11 @@ import DropdownInput from "./Inputs/DropdownInput";
 import InputText from "./Inputs/InputText";
 import InputInteger from "./Inputs/InputInteger";
 import InputFile from "./Inputs/InputFile";
-import CategoryHierarchySelector from "./Inputs/CategoryHierarchySelector";
+
 import InputPassword from "./Inputs/InputPassword";
 import InputTelephone from "./Inputs/InputTelephone";
 
 export default Form;
 export { InputPassword,
     InputTelephone,
-    InputText ,InputInteger,InputDescription,InputRadio, DropdownInput,InputImage ,InputFile,CategoryHierarchySelector};
+    InputText ,InputInteger,InputDescription,InputRadio, DropdownInput,InputImage ,InputFile};
