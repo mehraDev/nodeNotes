@@ -35,3 +35,8 @@ Thumbs.db
 
 # Optional: TypeScript build directory
 out/
+# macOS generated files
+.DS_Store
+
+# Cache files
+.cache
